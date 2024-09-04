@@ -1,0 +1,15 @@
+{
+  "name": "repositorio-4-semestre",
+  "version": "1.0.0",
+  "description": "Repositório do quarto semestre do meu  técnico de desenvolvimento de sistemas",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
